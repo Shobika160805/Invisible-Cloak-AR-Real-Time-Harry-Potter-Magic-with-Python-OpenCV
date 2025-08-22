@@ -2,11 +2,6 @@
 
 Make your own “invisible cloak” just like in Harry Potter! This project uses Python, OpenCV, and NumPy to detect a light blue cloth in your webcam feed and replace it with the background, creating a magical disappearing effect in real-time.
 
-## 📸 Demo
-
-![Demo GIF or Screenshot here]
-
----
 
 ## 🚀 Features
 
@@ -97,4 +92,5 @@ Inspired by the Harry Potter franchise and popular Computer Vision tutorials.
 ## 💡 License
 
 MIT License
+
 
